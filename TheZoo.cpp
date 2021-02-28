@@ -431,7 +431,7 @@ void RunZooProgram(vector<Animal*> zooAnimals) {
 
 			case 7:
 			default:
-				cout << "\n\n\t\tThanks for visiting! We hope to see you again soon!";
+				cout << "\n\n\t\tGoodbye.";
 				exit(0);
 				break;
 		}
